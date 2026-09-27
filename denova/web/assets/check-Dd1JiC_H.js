@@ -1,0 +1,1 @@
+import{N as e}from"./vendor~index~App~SettingPanel~InteractiveLayout~AgentChatRoute~VersionPanel~FilesTab~Trajec~bgf3p9xk-BX0CrGkl.js";var t=e(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]);export{t};

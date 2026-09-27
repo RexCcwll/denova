@@ -1,0 +1,1 @@
+import{N as e}from"./vendor~index~App~SettingPanel~InteractiveLayout~AgentChatRoute~VersionPanel~FilesTab~Trajec~bgf3p9xk-BX0CrGkl.js";var t=e(`chevron-right`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};

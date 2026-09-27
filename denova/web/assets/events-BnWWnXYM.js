@@ -1,0 +1,1 @@
+var e=`nova:onboarding-open`,t=`nova:settings-open-section`,n=`nova:writing-agent-init`,r;function i(e){r=e,window.dispatchEvent(new CustomEvent(t,{detail:{section:e}}))}function a(){let e=r;return r=void 0,e}export{a,i,t as n,n as r,e as t};

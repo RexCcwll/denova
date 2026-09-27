@@ -1,0 +1,1 @@
+var e=[({transform:e})=>({...e,x:0})];export{e as t};

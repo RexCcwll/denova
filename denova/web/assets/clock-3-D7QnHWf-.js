@@ -1,0 +1,1 @@
+import{N as e}from"./vendor~index~App~SettingPanel~InteractiveLayout~AgentChatRoute~VersionPanel~FilesTab~Trajec~bgf3p9xk-BX0CrGkl.js";var t=e(`clock-3`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 6v6h4`,key:`135r8i`}]]);export{t};

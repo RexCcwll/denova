@@ -1,0 +1,1 @@
+import{N as e}from"./vendor~index~App~SettingPanel~InteractiveLayout~AgentChatRoute~VersionPanel~FilesTab~Trajec~bgf3p9xk-BX0CrGkl.js";var t=e(`chevrons-down-up`,[[`path`,{d:`m7 20 5-5 5 5`,key:`13a0gw`}],[`path`,{d:`m7 4 5 5 5-5`,key:`1kwcof`}]]),n=e(`chevrons-up-down`,[[`path`,{d:`m7 15 5 5 5-5`,key:`1hf1tw`}],[`path`,{d:`m7 9 5-5 5 5`,key:`sgt6xg`}]]);export{t as n,n as t};

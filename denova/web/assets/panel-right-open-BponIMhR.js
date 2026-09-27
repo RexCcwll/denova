@@ -1,0 +1,1 @@
+import{N as e}from"./vendor~index~App~SettingPanel~InteractiveLayout~AgentChatRoute~VersionPanel~FilesTab~Trajec~bgf3p9xk-BX0CrGkl.js";var t=e(`panel-right-open`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M15 3v18`,key:`14nvp0`}],[`path`,{d:`m10 15-3-3 3-3`,key:`1pgupc`}]]);export{t};

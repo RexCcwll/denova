@@ -1,0 +1,1 @@
+import{v as e}from"./pierre-diffs-BMUZOyvH.js";import{o as t}from"./vendor~index-CjO_F6fQ.js";import{s as n}from"./tooltip-CElk6AZm.js";var r=e();function i({className:e,...i}){return(0,r.jsx)(t,{"data-slot":`spinner`,role:`status`,"aria-label":`Loading`,className:n(`size-4 animate-spin`,e),...i})}export{i as t};

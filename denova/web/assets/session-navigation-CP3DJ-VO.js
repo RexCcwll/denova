@@ -1,0 +1,1 @@
+var e=`nova:open-agent-chat-session`,t=null;function n(n){t={...n},typeof window<`u`&&window.dispatchEvent(new CustomEvent(e,{detail:t}))}function r(){let e=t;return t=null,e}export{r as n,n as r,e as t};

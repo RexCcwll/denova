@@ -1,0 +1,9 @@
+# 构建缓存与本地临时文件，避免污染镜像
+.git
+Dockerfile
+README.md
+*.tar.gz
+*.log
+.dockerignore
+entrypoint.sh
+chromium.sh
