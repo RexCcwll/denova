@@ -13,7 +13,7 @@ RUN groupadd --gid 1000 denova \
     && chown -R 1000:1000 /data
 
 COPY denova/ /opt/denova/
-
+RUN chmod +x /opt/denova/denova /opt/denova/denova-updater
 COPY entrypoint.sh /usr/local/bin/denova-entrypoint
 COPY chromium.sh  /usr/local/bin/chromium
 RUN chmod +x /usr/local/bin/denova-entrypoint /usr/local/bin/chromium
